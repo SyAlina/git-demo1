@@ -2,6 +2,3 @@ alina
 alina2
 alina
 alina4
-some
-and
-some
